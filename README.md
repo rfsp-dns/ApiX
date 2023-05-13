@@ -27,12 +27,12 @@ You can modify the program and make it more efficient, secure and improved.
 ### I downloaded but i don't know how to start !
 
 You need to provide the library two files with differente extensions :
-- `encripted-content.enc`
-- `source-for-encrypt.aenc`
+- `encripted-content.apix`
+- `source-for-encrypt.apie`
 
 After having these two file you need to put the files on this way :
-- `/api/encripted-content.enc`
-- `/encode/source-for-encrypt.aenc`
+- `/api/encripted-content.apix`
+- `/encode/source-for-encrypt.apie`
 
 **The library read the file in that specific directory so this should be in this way :**
 ```
@@ -41,9 +41,9 @@ After having these two file you need to put the files on this way :
 |   |-- libraries
 |   |   |-- apix.py
 |   |   |   |-- encode
-|   |   |   |   |-- source-for-encrypt.aenc
+|   |   |   |   |-- source-for-encrypt.apie
 |   |   |   |-- api
-|   |   |   |   |-- encripted-content.enc
+|   |   |   |   |-- encripted-content.apix
 |
 ```
 
@@ -51,9 +51,9 @@ After having these two file you need to put the files on this way :
 
 ### Why you use the extensions `.aenc` and `.enc` ?
 
-`.aenc` is for the file that provides the encrypted caracters, this extention symbolizes `.alternativeencryption`.
+`.apix` is for the file that provides the encrypted caracters, this extention symbolizes `.apixtreme`.
 
-`.enc` is for the file that has the encrypted content, this extions symbolizes `.encrypted`.
+`.apixi` is for the file that has the encrypted content, this extions symbolizes `.apixtremeinterpreter`.
 
 
 
