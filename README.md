@@ -44,12 +44,11 @@ After having these two file you need to put the files on this way :
 |   |   |   |   |-- source-for-encrypt.apixi
 |   |   |   |-- api
 |   |   |   |   |-- encripted-content.apix
-|
 ```
 
 
 
-### Why you use the extensions `.aenc` and `.enc` ?
+### Why you use the extensions `.apix` and `.apixi` ?
 
 `.apix` is for the file that provides the encrypted caracters, this extention symbolizes `.apixtreme`.
 
