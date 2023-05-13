@@ -28,11 +28,11 @@ You can modify the program and make it more efficient, secure and improved.
 
 You need to provide the library two files with differente extensions :
 - `encripted-content.apix`
-- `source-for-encrypt.apie`
+- `source-for-encrypt.apixi`
 
 After having these two file you need to put the files on this way :
 - `/api/encripted-content.apix`
-- `/encode/source-for-encrypt.apie`
+- `/encode/source-for-encrypt.apixi`
 
 **The library read the file in that specific directory so this should be in this way :**
 ```
@@ -41,7 +41,7 @@ After having these two file you need to put the files on this way :
 |   |-- libraries
 |   |   |-- apix.py
 |   |   |   |-- encode
-|   |   |   |   |-- source-for-encrypt.apie
+|   |   |   |   |-- source-for-encrypt.apixi
 |   |   |   |-- api
 |   |   |   |   |-- encripted-content.apix
 |
