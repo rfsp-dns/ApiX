@@ -10,6 +10,8 @@ This code was provide for free usage, file manipulation and more security, its *
 
 **Its needed to be the github source code link** in every update from the community in their repository.
 
+The commercial use is **only for the company inside system**.
+
 
 <!-- ABOUT THE PROJECT -->
 ## About 
