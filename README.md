@@ -2,11 +2,13 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-The code it's not finished.
+The code it's not finished, validation in progress.
 
 ### Disclaimer
 
 This code was provide for free usage, file manipulation and more security, its **forbidden to sell the code, sell programs that include the library or exploid data from other people.**
+
+**Its needed to be the github source code link** in every update from the community in their repository.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -59,7 +61,10 @@ After having these two file you need to put the files on this way :
 
 
 ## Built With
+Python
 
+## Future Versions in
+Javascript
 
 
 
@@ -70,5 +75,7 @@ After having these two file you need to put the files on this way :
 ## License
 
 Distributed under the MIT License. 
+
+**Read the disclaimer before using it**
 
 
