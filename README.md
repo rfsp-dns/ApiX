@@ -20,7 +20,7 @@ It's was supposed to be a better version for API Keys, but i like the name **Api
 
 ### How can i use it ?
 
-Just download the library, use it freely, and make the world more secure.
+Just download the template, use it freely, and make the world more secure.
 
 ### Can i modify ?
 
