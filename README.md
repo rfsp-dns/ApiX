@@ -1,4 +1,4 @@
-# ApiX - Beta 2
+# ApiX - Final Beta (Release Version)
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -12,13 +12,11 @@ This code was provide for free usage, file manipulation and more security, its *
 
 The commercial use is **only for the company inside system**.
 
-
-<!-- ABOUT THE PROJECT -->
 ## About 
 
 ### What APIX stands ? 
 
-It's was supposed to be a better version for API Keys, but i like the name so i use it anyways.
+It's was supposed to be a better version for API Keys, but i like the name **ApiXtreme** so i use it anyways.
 
 ### How can i use it ?
 
@@ -50,17 +48,11 @@ After having these two file you need to put the files on this way :
 |   |   |   |   |-- encripted-content.apix
 ```
 
-
-
 ### Why you use the extensions `.apix` and `.apixi` ?
 
 `.apixi` is for the file that provides the encrypted caracters, this extention symbolizes `.apixtremeinterpreter`.
 
 `.apix` is for the file that has the encrypted content, this extention symbolizes `.apixtreme`.
-
-
-
-
 
 ## Built With
 Python
@@ -68,16 +60,8 @@ Python
 ## Future Versions in
 Javascript
 
-
-
-
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. 
 
 **Read the disclaimer before using it**
-
-
