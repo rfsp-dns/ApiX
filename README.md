@@ -2,8 +2,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-The code it's not finished, validation in progress.
-
 ### Disclaimer
 
 This code was provide for free usage, file manipulation and more security, its **forbidden to sell the code, sell programs that include the library or exploid data from other people.**
