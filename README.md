@@ -48,6 +48,14 @@ After having these two file you need to put the files on this way :
 |   |   |   |   |-- encripted-content.apix
 ```
 
+You will need to start your code by doing :
+
+```
+from library.apix import ApiXInterpreter as Apix
+```
+
+Then you can use it freely like in **index.py**.
+
 ### Why you use the extensions `.apix` and `.apixi` ?
 
 `.apixi` is for the file that provides the encrypted caracters, this extention symbolizes `.apixtremeinterpreter`.
